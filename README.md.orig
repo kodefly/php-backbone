@@ -1,4 +1,9 @@
+<<<<<<< HEAD
+new-project
+===========
+=======
 php-backbone
 ============
+>>>>>>> f1e49255c8294e77c7d32917dfd57d403779e682
 
 A simple MVC backbone and folder structure for starting a new PHP project.
